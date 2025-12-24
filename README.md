@@ -63,6 +63,7 @@ To customize the quotes, edit `quotes.txt` and restart the application. Each quo
 This project is licensed under the MIT License.
 
 ## Author
-[TrainWithShubham](https://github.com/LondheShubham153)
+[ sumit ranjan jha :- https://www.linkedin.com/in/sumitranjanjha7/ ]
+
 
 
